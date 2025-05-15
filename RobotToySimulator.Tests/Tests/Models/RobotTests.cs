@@ -13,6 +13,7 @@ namespace RobotToySimulator.Tests
     [TestFixture]
     public class RobotTests
     {
+
         private Robot robot;
 
         [SetUp]
